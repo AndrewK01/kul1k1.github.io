@@ -1,4 +1,3 @@
-
-        $('.card').click(function(){
-          $(this).toggleClass('flipped');
-        });
+$('.card').click(function(){
+  $(this).toggleClass('flipped');
+});
